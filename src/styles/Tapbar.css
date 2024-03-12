@@ -1,0 +1,12 @@
+.tapbar_wrapper {
+    @apply absolute bottom-5 w-[-webkit-fill-available] px-6;
+}
+.tapBarMenu {
+    @apply py-5 bg-black grid grid-cols-tapbarmenu grid-rows-tapbarmenu z-20 shadow-md rounded-full px-4 max-w-[576px];
+}
+.menuItem {
+    @apply w-full flex justify-center items-center;
+}
+img {
+    @apply w-5 h-5;
+}

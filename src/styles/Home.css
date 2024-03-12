@@ -1,0 +1,3 @@
+.home {
+    @apply relative max-w-[576px] bg-white h-screen;
+}
